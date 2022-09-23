@@ -1,0 +1,20 @@
+@media (min-width: 768px) {
+    .input-group {
+        width: 50%;
+    }
+}
+
+body::before {
+    display: block;
+    content: '';
+    height : 50px;
+}
+
+* {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.vault {
+    color: #00B0FF;
+}
